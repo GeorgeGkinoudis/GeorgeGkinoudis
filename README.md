@@ -10,7 +10,7 @@ This is a fresh profile where i'll be uploading some projects, expiraments, and 
 
 <hr>
 
-A bit About Me
+A Bit About Me
 
 <ul>
   <li>Currently a Msc student in Computer Science</li>
