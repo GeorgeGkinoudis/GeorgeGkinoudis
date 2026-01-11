@@ -4,7 +4,7 @@ I'm George, a Web Developer based in Greece.
 
 I mostly work on frontend stuff - Javascript, PHP , Css.
 
-I also use Figma for UI design and to skect ideas.
+I also use Figma for UI design and to sketch ideas.
 
 This is a fresh profile where i'll be uploading some projects, expiraments, and things i enjoy working on.
 
