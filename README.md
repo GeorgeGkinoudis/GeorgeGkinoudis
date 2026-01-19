@@ -1,6 +1,6 @@
  ## Hi there 👋
 
-I'm George, a Web Developer based in Greece.
+I'm George, a Front-End Developer based in Greece.
 
 I mostly work on frontend stuff - Javascript, PHP , Css.
 
